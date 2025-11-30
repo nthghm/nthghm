@@ -9,6 +9,10 @@ Currently coding in :
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 
+---
+
+_image courtesy: account avatar from https://github.com/alohe/avatars_
+
 <!--
 **nthghm/nthghm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
