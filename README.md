@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Nitha 👋
 
-I'm Nitha., an other web developper in the field.
+An other web developper in the field.<br/>
 More than happy to contribute to open source projects.
 
 Currently coding in :
